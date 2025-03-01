@@ -1,0 +1,252 @@
+[
+    {
+      "city": "Seville",
+      "country": "Spain",
+      "clues": [
+        "Known for its flamenco dancing and historic architecture.",
+        "The Alcázar of Seville is a stunning royal palace.",
+        "The Plaza de España is a grand architectural complex.",
+        "Famous for its tapas and orange trees.",
+        "Offers a vibrant cultural experience and warm atmosphere."
+      ],
+      "fun_fact": [
+        "Seville is the capital of Andalusia.",
+        "The Seville Cathedral is one of the largest Gothic cathedrals in the world.",
+        "The city has a rich history dating back to Roman times.",
+        "Seville is known for its Semana Santa (Holy Week) celebrations.",
+        "The Metropol Parasol is a modern architectural landmark."
+      ],
+      "trivia": [
+        "Gazpacho is a popular cold soup in Seville.",
+        "Flamenco is a passionate dance and music genre.",
+        "The city has numerous parks and gardens.",
+        "Seville is known for its ceramic tiles (azulejos).",
+        "The Guadalquivir River runs through the city."
+      ]
+    },
+    {
+      "city": "Salt Lake City",
+      "country": "USA",
+      "clues": [
+        "Known for its Mormon heritage and outdoor activities.",
+        "Temple Square is the heart of the city and Mormon history.",
+        "The Great Salt Lake is a unique natural feature.",
+        "Famous for its skiing and mountain scenery.",
+        "Offers a blend of religious history and natural beauty."
+      ],
+      "fun_fact": [
+        "Salt Lake City is the capital of Utah.",
+        "The city hosted the 2002 Winter Olympics.",
+        "Salt Lake City has a thriving tech industry.",
+        "The city has numerous parks and hiking trails.",
+        "Salt Lake City is known for its clean air and water."
+      ],
+      "trivia": [
+        "Fry sauce is a local condiment.",
+        "Salt Lake City has a vibrant arts and culture scene.",
+        "The city has numerous craft breweries.",
+        "Salt Lake City is known for its friendly and welcoming atmosphere.",
+        "The city has a rich history of pioneer settlement."
+      ]
+    },
+    {
+      "city": "Porto",
+      "country": "Portugal",
+      "clues": [
+        "Known for its port wine and colorful Ribeira district.",
+        "The Ribeira district is a UNESCO World Heritage Site.",
+        "Dom Luís I Bridge is a prominent landmark.",
+        "Famous for its port wine cellars and traditional cuisine.",
+        "Offers a blend of historical charm and wine culture."
+      ],
+      "fun_fact": [
+        "Porto is known for its port wine production.",
+        "The city has numerous bridges and viewpoints.",
+        "Porto has a rich history dating back to Roman times.",
+        "The city has a thriving arts and culture scene.",
+        "Porto is known for its azulejo tiles and architecture."
+      ],
+      "trivia": [
+        "Francesinha is a popular Porto sandwich.",
+        "Port wine is a traditional Portuguese fortified wine.",
+        "The city has numerous wine cellars and tasting tours.",
+        "Porto is known for its bookshops and libraries.",
+        "The city has a vibrant nightlife scene."
+      ]
+    },
+    {
+      "city": "Manila",
+      "country": "Philippines",
+      "clues": [
+        "Known for its historic Intramuros district and vibrant street life.",
+        "Intramuros is a walled city with Spanish colonial architecture.",
+        "San Agustin Church is a UNESCO World Heritage Site.",
+        "Famous for its street food and jeepneys.",
+        "Offers a blend of historical charm and urban energy."
+      ],
+      "fun_fact": [
+        "Manila is the capital of the Philippines.",
+        "The city has numerous parks and waterfront areas.",
+        "Manila has a rich history of Spanish colonial rule.",
+        "The city has a thriving arts and culture scene.",
+        "Manila is known for its vibrant street markets and shopping malls."
+      ],
+      "trivia": [
+        "Adobo is a popular Filipino dish.",
+        "Halo-halo is a popular Filipino dessert.",
+        "The city has numerous markets and street food stalls.",
+        "Manila is known for its jeepneys and tricycles.",
+        "The city has a rich history of music and dance."
+      ]
+    },
+    {
+      "city": "Kathmandu",
+      "country": "Nepal",
+      "clues": [
+        "Known for its ancient temples and Himalayan views.",
+        "The Swayambhunath (Monkey Temple) is a sacred Buddhist site.",
+        "The Boudhanath Stupa is one of the largest stupas in the world.",
+        "Famous for its trekking adventures and spiritual atmosphere.",
+        "Offers a rich cultural heritage and natural beauty."
+      ],
+      "fun_fact": [
+        "Kathmandu is the capital of Nepal.",
+        "The city is located in a valley surrounded by mountains.",
+        "Kathmandu has numerous UNESCO World Heritage Sites.",
+        "The Pashupatinath Temple is a sacred Hindu site.",
+        "Kathmandu is a gateway to the Himalayas."
+      ],
+      "trivia": [
+        "Dal bhat is a traditional Nepali meal.",
+        "Momos are popular dumplings.",
+        "The city has numerous shops selling handicrafts and souvenirs.",
+        "Thangka paintings are a traditional art form.",
+        "The Kathmandu Valley has a rich history and cultural significance."
+      ]
+    },
+    {
+      "city": "Doha",
+      "country": "Qatar",
+      "clues": [
+        "Known for its modern architecture and cultural landmarks.",
+        "The Museum of Islamic Art is a prominent cultural attraction.",
+        "The Souq Waqif is a traditional market.",
+        "Famous for its luxury shopping and desert experiences.",
+        "Offers a blend of modern luxury and traditional culture."
+      ],
+      "fun_fact": [
+        "Doha is the capital of Qatar.",
+        "The city has numerous parks and waterfront areas.",
+        "Doha has a rapidly developing skyline.",
+        "The city has a thriving arts and culture scene.",
+        "Doha is known for its pearl diving history."
+      ],
+      "trivia": [
+        "Machboos is a popular Qatari dish.",
+        "Arabic coffee is a traditional drink.",
+        "The city has numerous malls and shopping centers.",
+        "Doha is known for its falconry and camel racing.",
+        "The city has a rich history of Islamic architecture."
+      ]
+    },
+    {
+      "city": "Gothenburg",
+      "country": "Sweden",
+      "clues": [
+        "Known for its canals and seafood.",
+        "The Haga district is a historic area with wooden houses.",
+        "The Gothenburg Botanical Garden is a lush green space.",
+        "Famous for its seafood restaurants and relaxed atmosphere.",
+        "Offers a blend of maritime history and modern urban living."
+      ],
+      "fun_fact": [
+        "Gothenburg is the second-largest city in Sweden.",
+        "The city has numerous parks and canals.",
+        "Gothenburg has a rich maritime history.",
+        "The city has a thriving arts and culture scene.",
+        "Gothenburg is known for its Volvo car manufacturing history."
+      ],
+      "trivia": [
+        "Shrimp sandwiches are a popular Gothenburg dish.",
+        "Fika is a Swedish tradition of taking a coffee break.",
+        "The city has numerous seafood restaurants and markets.",
+        "Gothenburg is known for its music festivals and events.",
+        "The city has a rich history of shipbuilding and trade."
+      ]
+    },
+    {
+      "city": "Belgrade",
+      "country": "Serbia",
+      "clues": [
+        "Known for its nightlife and historic fortresses.",
+        "The Belgrade Fortress is a prominent landmark overlooking the Danube and Sava rivers.",
+        "Skadarlija is a bohemian quarter with traditional restaurants.",
+        "Famous for its nightlife and Balkan cuisine.",
+        "Offers a blend of historical charm and vibrant urban energy."
+      ],
+      "fun_fact": [
+        "Belgrade is the capital of Serbia.",
+        "The city has numerous parks and riverfront areas.",
+        "Belgrade has a rich history dating back to ancient times.",
+        "The city has a thriving arts and culture scene.",
+        "Belgrade is known for its floating river clubs."
+      ],
+      "trivia": [
+        "Cevapi are a popular Balkan dish.",
+        "Rakija is a traditional Balkan fruit brandy.",
+        "The city has numerous markets and street food stalls.",
+        "Belgrade is known for its nightlife and music scene.",
+        "The city has a rich history of Byzantine and Ottoman influences."
+      ]
+    },
+    {
+      "city": "Vancouver",
+      "country": "Canada",
+      "clues": [
+      "Known for its stunning natural setting with mountains and ocean.",
+      "Stanley Park is a large urban park with seawall views.",
+      "It has a diverse cultural scene and outdoor activities.",
+      "Famous for its fresh seafood and multicultural cuisine.",
+      "Offers a blend of urban living and natural beauty."
+    ],
+    "fun_fact": [
+      "Vancouver has one of the mildest climates in Canada.",
+      "The city has a thriving film industry, often called 'Hollywood North'.",
+      "Granville Island is a popular public market and arts district.",
+      "Vancouver has a large Chinatown with rich cultural heritage.",
+      "The Capilano Suspension Bridge offers thrilling views."
+    ],
+    "trivia": [
+      "Salmon is a staple of Pacific Northwest cuisine.",
+      "The city has numerous craft breweries.",
+      "Hiking and skiing are popular activities in the surrounding mountains.",
+      "Vancouver has a strong focus on sustainability and green initiatives.",
+      "The First Nations culture is an important part of the city's heritage."
+    ]
+  },
+  {
+    "city": "Panama City",
+    "country": "Panama",
+    "clues": [
+      "Known for the Panama Canal and its modern skyline.",
+      "The Panama Canal is a major engineering feat.",
+      "Casco Viejo is the historic district with colonial architecture.",
+      "Famous for its tropical climate and diverse wildlife.",
+      "Offers a blend of modern development and historical charm."
+    ],
+    "fun_fact": [
+      "Panama City is the capital of Panama.",
+      "The city has numerous parks and rainforest areas.",
+      "Panama City has a rapidly developing financial district.",
+      "The city has a thriving arts and culture scene.",
+      "Panama City is known for its biodiversity and wildlife."
+    ],
+    "trivia": [
+      "Sancocho is a popular Panamanian stew.",
+      "Geisha coffee is a high-quality Panamanian coffee.",
+      "The city has numerous markets and shopping malls.",
+      "Panama City is known for its tropical fruits and seafood.",
+      "The city has a rich history of indigenous and Spanish influences."
+    ]
+  }
+]

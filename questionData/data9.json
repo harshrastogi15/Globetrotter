@@ -1,0 +1,252 @@
+[
+    {
+        "city": "Windhoek",
+        "country": "Namibia",
+        "clues": [
+            "Known for its German colonial architecture and wildlife reserves.",
+            "The Christuskirche is a prominent landmark.",
+            "The National Museum of Namibia showcases the country's history.",
+            "Famous for its game reserves and African cuisine.",
+            "Offers a blend of colonial history and African wildlife."
+        ],
+        "fun_fact": [
+            "Windhoek is the capital of Namibia.",
+            "The city has numerous parks and gardens.",
+            "Windhoek has a rich history of German colonial rule.",
+            "The city has a thriving arts and cultural scene.",
+            "Windhoek is known for its game reserves and safari tours."
+        ],
+        "trivia": [
+            "Biltong is a popular Namibian snack.",
+            "Braai is a popular Namibian barbecue.",
+            "The city has numerous markets and craft shops.",
+            "Windhoek is known for its German-style beer and cuisine.",
+            "The city has a rich history of indigenous and European influences."
+        ]
+    },
+    {
+        "city": "Santo Domingo",
+        "country": "Dominican Republic",
+        "clues": [
+            "Known for its colonial architecture and Caribbean beaches.",
+            "The Zona Colonial is a UNESCO World Heritage Site.",
+            "The Alcázar de Colón is a historic palace.",
+            "Famous for its merengue music and Dominican rum.",
+            "Offers a blend of colonial history and tropical vibrancy."
+        ],
+        "fun_fact": [
+            "Santo Domingo is the capital of the Dominican Republic.",
+            "The city has numerous parks and beaches.",
+            "Santo Domingo has a rich history of Spanish colonial rule.",
+            "The city has a thriving arts and music scene.",
+            "Santo Domingo is known for its baseball culture."
+        ],
+        "trivia": [
+            "La Bandera is a popular Dominican dish.",
+            "Dominican rum is known for its quality.",
+            "The city has numerous markets and street food stalls.",
+            "Santo Domingo is known for its merengue and bachata music.",
+            "The city has a rich history of African and Spanish influences."
+        ]
+    },
+    {
+        "city": "Sarajevo",
+        "country": "Bosnia and Herzegovina",
+        "clues": [
+            "Known for its multicultural heritage and historic landmarks.",
+            "The Baščaršija is a historic bazaar.",
+            "The Latin Bridge is a prominent landmark.",
+            "Famous for its cevapi and Bosnian coffee.",
+            "Offers a blend of Ottoman and Austro-Hungarian history."
+        ],
+        "fun_fact": [
+            "Sarajevo is the capital of Bosnia and Herzegovina.",
+            "The city has numerous parks and riverfront areas.",
+            "Sarajevo has a rich history of multiculturalism.",
+            "The city has a thriving arts and cultural scene.",
+            "Sarajevo is known for its historic mosques, churches, and synagogues."
+        ],
+        "trivia": [
+            "Cevapi are a popular Balkan dish.",
+            "Bosnian coffee is served in a traditional džezva.",
+            "The city has numerous markets and craft shops.",
+            "Sarajevo is known for its film festival and cultural events.",
+            "The city has a rich history of resilience and cultural diversity."
+        ]
+    },
+    {
+        "city": "Baku",
+        "country": "Azerbaijan",
+        "clues": [
+            "Known for its Flame Towers and historic Old City.",
+            "The Old City (Icheri Sheher) is a UNESCO World Heritage Site.",
+            "The Flame Towers are a prominent architectural landmark.",
+            "Famous for its oil industry and Azerbaijani cuisine.",
+            "Offers a blend of ancient history and modern architecture."
+        ],
+        "fun_fact": [
+            "Baku is the capital of Azerbaijan.",
+            "The city has numerous parks and waterfront areas.",
+            "Baku has a rich history of oil production.",
+            "The city has a thriving arts and cultural scene.",
+            "Baku is known for its mud volcanoes and Caspian Sea views."
+        ],
+        "trivia": [
+            "Plov is a popular Azerbaijani rice dish.",
+            "Azerbaijani tea is served with sweets.",
+            "The city has numerous markets and craft shops.",
+            "Baku is known for its carpet weaving and traditional crafts.",
+            "The city has a rich history of Persian and Russian influences."
+        ]
+    },
+    {
+        "city": "Phnom Penh",
+        "country": "Cambodia",
+        "clues": [
+            "Known for its royal palaces and historic temples.",
+            "The Royal Palace is a prominent landmark.",
+            "The Silver Pagoda is a historic temple.",
+            "Famous for its Khmer cuisine and markets.",
+            "Offers a blend of royal grandeur and cultural heritage."
+        ],
+        "fun_fact": [
+            "Phnom Penh is the capital of Cambodia.",
+            "The city has numerous parks and riverfront areas.",
+            "Phnom Penh has a rich history of Khmer civilization.",
+            "The city has a thriving arts and cultural scene.",
+            "Phnom Penh is known for its markets and street food."
+        ],
+        "trivia": [
+            "Amok is a popular Cambodian curry dish.",
+            "Cambodian coffee is strong and sweet.",
+            "The city has numerous markets and street food stalls.",
+            "Phnom Penh is known for its traditional Apsara dance.",
+            "The city has a rich history of Buddhist and French influences."
+        ]
+    },
+    {
+        "city": "Lusaka",
+        "country": "Zambia",
+        "clues": [
+            "Known for its markets and wildlife reserves.",
+            "The Lusaka National Museum showcases the country's history.",
+            "The Munda Wanga Environmental Park is a popular attraction.",
+            "Famous for its wildlife and Zambian cuisine.",
+            "Offers a blend of urban life and natural wonders."
+        ],
+        "fun_fact": [
+            "Lusaka is the capital of Zambia.",
+            "The city has numerous parks and gardens.",
+            "Lusaka has a rich history of indigenous and colonial influences.",
+            "The city has a thriving arts and cultural scene.",
+            "Lusaka is known for its markets and traditional crafts."
+        ],
+        "trivia": [
+            "Nshima is a staple of Zambian cuisine.",
+            "Zambian coffee is known for its quality.",
+            "The city has numerous markets and street food stalls.",
+            "Lusaka is known for its traditional music and dance.",
+            "The city has a rich history of political and social development."
+        ]
+    },
+    {
+        "city": "Dushanbe",
+        "country": "Tajikistan",
+        "clues": [
+            "Known for its parks and mountainous landscapes.",
+            "The National Museum of Tajikistan showcases the country's history.",
+            "The Rudaki Park is a popular green space.",
+            "Famous for its traditional Tajik cuisine and hospitality.",
+            "Offers a blend of Central Asian culture and natural beauty."
+        ],
+        "fun_fact": [
+            "Dushanbe is the capital of Tajikistan.",
+            "The city has numerous parks and gardens.",
+            "Dushanbe has a rich history of Persian and Soviet influences.",
+            "The city has a thriving arts and cultural scene.",
+            "Dushanbe is known for its mountainous surroundings and hiking trails."
+        ],
+        "trivia": [
+            "Plov is a popular Central Asian rice dish.",
+            "Green tea is a traditional Tajik drink.",
+            "The city has numerous markets and craft shops.",
+            "Dushanbe is known for its traditional music and dance.",
+            "The city has a rich history of Silk Road trade and cultural exchange."
+        ]
+    },
+    {
+        "city": "Addis Ababa",
+        "country": "Ethiopia",
+        "clues": [
+            "Known for its historical landmarks and coffee culture.",
+            "The National Museum of Ethiopia houses ancient artifacts.",
+            "The Holy Trinity Cathedral is a prominent landmark.",
+            "Famous for its Ethiopian coffee and injera bread.",
+            "Offers a blend of ancient history and African vibrancy."
+        ],
+        "fun_fact": [
+            "Addis Ababa is the capital of Ethiopia.",
+            "The city has numerous parks and green spaces.",
+            "Addis Ababa has a rich history of ancient civilizations.",
+            "The city has a thriving arts and music scene.",
+            "Addis Ababa is known for its coffee ceremonies and traditional markets."
+        ],
+        "trivia": [
+            "Injera is a staple of Ethiopian cuisine.",
+            "Ethiopian coffee is known for its quality.",
+            "The city has numerous markets and street food stalls.",
+            "Addis Ababa is known for its traditional music and dance.",
+            "The city has a rich history of Orthodox Christian traditions."
+        ]
+    },
+    {
+        "city": "Ashgabat",
+        "country": "Turkmenistan",
+        "clues": [
+            "Known for its white marble buildings and modern architecture.",
+            "The Independence Monument is a prominent landmark.",
+            "The National Museum of Turkmenistan showcases the country's history.",
+            "Famous for its carpets and Turkmen cuisine.",
+            "Offers a blend of modern grandeur and Central Asian culture."
+        ],
+        "fun_fact": [
+            "Ashgabat is the capital of Turkmenistan.",
+            "The city has numerous parks and fountains.",
+            "Ashgabat has a rich history of Silk Road trade.",
+            "The city has a thriving arts and cultural scene.",
+            "Ashgabat is known for its white marble buildings and monuments."
+        ],
+        "trivia": [
+            "Plov is a popular Central Asian rice dish.",
+            "Green tea is a traditional Turkmen drink.",
+            "The city has numerous markets and carpet shops.",
+            "Ashgabat is known for its traditional Turkmen carpets and crafts.",
+            "The city has a rich history of Persian and Russian influences."
+        ]
+    },
+    {
+        "city": "Bishkek",
+        "country": "Kyrgyzstan",
+        "clues": [
+            "Known for its parks and mountainous surroundings.",
+            "The Ala-Too Square is a central landmark.",
+            "The State Historical Museum showcases the country's history.",
+            "Famous for its nomadic traditions and Kyrgyz cuisine.",
+            "Offers a blend of Central Asian culture and natural beauty."
+        ],
+        "fun_fact": [
+            "Bishkek is the capital of Kyrgyzstan.",
+            "The city has numerous parks and green spaces.",
+            "Bishkek has a rich history of nomadic traditions.",
+            "The city has a thriving arts and cultural scene.",
+            "Bishkek is known for its mountainous surroundings and hiking trails."
+        ],
+        "trivia": [
+            "Beshbarmak is a popular Kyrgyz meat dish.",
+            "Kymyz is a traditional fermented mare's milk drink.",
+            "The city has numerous markets and craft shops.",
+            "Bishkek is known for its traditional Kyrgyz felt crafts and carpets.",
+            "The city has a rich history of Silk Road trade and cultural exchange."
+        ]
+    }
+]

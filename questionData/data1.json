@@ -1,0 +1,253 @@
+[
+    {
+        "city": "Paris",
+        "country": "France",
+        "clues": [
+            "This city is home to a famous tower that sparkles every night.",
+            "Known as the 'City of Love' and a hub for fashion and art.",
+            "It boasts numerous world-renowned museums, including the Louvre.",
+            "The Seine River runs through it, with iconic bridges crossing it.",
+            "Famous for its charming cafes and patisseries."
+        ],
+        "fun_fact": [
+            "The Eiffel Tower was supposed to be dismantled after 20 years but was saved because it was useful for radio transmissions!",
+            "Paris has only one stop sign in the entire city—most intersections rely on priority-to-the-right rules.",
+            "The Louvre Museum was originally a fortress built in the late 12th century.",
+            "Paris has underground cemeteries called catacombs, holding the remains of millions.",
+            "The city has over 130 public gardens and parks."
+        ],
+        "trivia": [
+            "This city is famous for its croissants and macarons. Bon appétit!",
+            "Paris was originally a Roman city called Lutetia.",
+            "The Latin Quarter is known for its universities and student life.",
+            "The French Revolution began with the storming of the Bastille in Paris.",
+            "Paris Fashion Week is one of the most prestigious fashion events globally."
+        ]
+    },
+    {
+        "city": "Tokyo",
+        "country": "Japan",
+        "clues": [
+            "This city has the busiest pedestrian crossing in the world.",
+            "You can visit an entire district dedicated to anime, manga, and gaming.",
+            "Known for its cutting-edge technology and futuristic architecture.",
+            "It has a unique blend of traditional temples and modern skyscrapers.",
+            "Famous for its exquisite cuisine, including sushi and ramen."
+        ],
+        "fun_fact": [
+            "Tokyo was originally a small fishing village called Edo before becoming the bustling capital it is today!",
+            "More than 14 million people live in Tokyo, making it one of the most populous cities in the world.",
+            "The Tokyo Skytree is one of the tallest structures in the world.",
+            "Capsule hotels are a unique and space-efficient accommodation option.",
+            "Vending machines in Tokyo sell everything from hot meals to fresh flowers."
+        ],
+        "trivia": [
+            "The city has over 160,000 restaurants, more than any other city in the world.",
+            "Tokyo’s subway system is so efficient that train delays of just a few minutes come with formal apologies.",
+            "Hanami, or cherry blossom viewing, is a major cultural event.",
+            "Sumo wrestling is Japan's national sport, and Tokyo hosts major tournaments.",
+            "The Tsukiji Fish Market, though moved, was once the world's largest fish market."
+        ]
+    },
+    {
+        "city": "New York",
+        "country": "USA",
+        "clues": [
+            "Home to a green statue gifted by France in the 1800s.",
+            "Nicknamed 'The Big Apple' and known for its Broadway theaters.",
+            "It has five boroughs, each with distinct characteristics.",
+            "Central Park is a massive urban park in the heart of the city.",
+            "Known for its diverse population and cultural melting pot."
+        ],
+        "fun_fact": [
+            "The Statue of Liberty was originally a copper color before oxidizing to its iconic green patina.",
+            "Times Square was once called Longacre Square before being renamed in 1904.",
+            "The New York Public Library has over 50 million items.",
+            "The city has over 800 languages spoken within its borders.",
+            "The first pizzeria in the United States opened in New York City in 1895."
+        ],
+        "trivia": [
+            "New York City has 468 subway stations, making it one of the most complex transit systems in the world.",
+            "The Empire State Building has its own zip code: 10118.",
+            "The Bronx Zoo is one of the largest metropolitan zoos in the world.",
+            "New York City is a major center for finance, media, and fashion.",
+            "The city's street food is incredibly diverse, reflecting its multicultural population."
+        ]
+    },
+    {
+        "city": "London",
+        "country": "UK",
+        "clues": [
+            "Home to Big Ben and the Houses of Parliament.",
+            "Known for its red double-decker buses and black cabs.",
+            "The British Museum holds artifacts from around the world.",
+            "It has numerous royal parks and gardens.",
+            "Famous for its West End theatre district."
+        ],
+        "fun_fact": [
+            "Big Ben is actually the name of the bell, not the clock tower.",
+            "London has a network of underground rivers, some of which are still visible.",
+            "The Tower of London has been a royal palace, prison, and treasury.",
+            "London's iconic telephone booths are being repurposed as mini libraries and coffee shops.",
+            "The city has over 170 museums."
+        ],
+        "trivia": [
+            "The London Underground is nicknamed 'The Tube'.",
+            "Shakespeare's Globe is a reconstruction of the original theatre.",
+            "After the Great Fire of London in 1666, the city was rebuilt with wider streets.",
+            "London is a major center for finance, media, and the arts.",
+            "Fish and chips is a classic London dish."
+        ]
+    },
+    {
+        "city": "Rome",
+        "country": "Italy",
+        "clues": [
+            "Home to the Colosseum and the Vatican City.",
+            "Known for its ancient ruins and Renaissance art.",
+            "The Trevi Fountain is a famous spot for tossing coins.",
+            "It has numerous piazzas with beautiful fountains and architecture.",
+            "Famous for its pasta, pizza, and gelato."
+        ],
+        "fun_fact": [
+            "The Colosseum could hold an estimated 50,000 to 80,000 spectators.",
+            "Rome has over 2,000 fountains.",
+            "The Vatican City is the smallest independent state in the world.",
+            "The Pantheon was originally built as a temple to all the gods.",
+            "Rome was founded in 753 BC, according to legend."
+        ],
+        "trivia": [
+            "The phrase 'all roads lead to Rome' reflects its historical importance.",
+            "Espresso is a staple of Roman coffee culture.",
+            "The Spanish Steps are a popular meeting point and tourist attraction.",
+            "Rome is known for its 'sette colli' or seven hills.",
+            "The Roman Forum was the heart of ancient Rome."
+        ]
+    },
+    {
+        "city": "Barcelona",
+        "country": "Spain",
+        "clues": [
+            "Home to the Sagrada Familia, a unique architectural masterpiece.",
+            "Known for its vibrant street life and beaches.",
+            "Park Güell offers stunning views of the city.",
+            "It has a rich history with Gothic and modernist architecture.",
+            "Famous for tapas and Catalan cuisine."
+        ],
+        "fun_fact": [
+            "The Sagrada Familia has been under construction for over 100 years and is still not finished.",
+            "Barcelona has over 4.5 kilometers of beaches.",
+            "La Rambla is a famous pedestrian street filled with shops and performers.",
+            "Barcelona is the capital of Catalonia.",
+            "The city hosted the 1992 Summer Olympics."
+        ],
+        "trivia": [
+            "FC Barcelona is one of the world's most famous football clubs.",
+            "The Boqueria Market is a popular spot for fresh produce and local foods.",
+            "Gaudí's architectural influence is seen throughout the city.",
+            "The Catalan language is widely spoken alongside Spanish.",
+            "The city has numerous festivals, including La Mercè."
+        ]
+    },
+    {
+        "city": "Sydney",
+        "country": "Australia",
+        "clues": [
+            "Home to the iconic Opera House and Harbour Bridge.",
+            "Known for its beautiful beaches and outdoor lifestyle.",
+            "Bondi Beach is one of the most famous surfing spots.",
+            "It has a vibrant cultural scene and numerous parks.",
+            "Famous for its seafood and multicultural cuisine."
+        ],
+        "fun_fact": [
+            "The Sydney Opera House has a roof made of over 1 million tiles.",
+            "The Harbour Bridge is nicknamed 'the Coathanger'.",
+            "Sydney was the first European settlement in Australia.",
+            "The city has a thriving Aboriginal cultural scene.",
+            "The Royal Botanic Garden Sydney is one of the oldest in the world."
+        ],
+        "trivia": [
+            "Sydney hosted the 2000 Summer Olympics.",
+            "The city has a diverse population with over 250 languages spoken.",
+            "Taronga Zoo offers stunning views of the harbour and city skyline.",
+            "The Rocks district is the oldest part of Sydney.",
+            "Vegemite, a salty spread, is a popular Australian food."
+        ]
+    },
+    {
+        "city": "Dubai",
+        "country": "UAE",
+        "clues": [
+            "Home to the Burj Khalifa, the tallest building in the world.",
+            "Known for its luxurious shopping malls and extravagant architecture.",
+            "The Palm Jumeirah is an artificial archipelago shaped like a palm tree.",
+            "It has a vibrant nightlife and desert adventures.",
+            "Famous for its Middle Eastern cuisine and international flavors."
+        ],
+        "fun_fact": [
+            "The Burj Khalifa is three times the height of the Eiffel Tower.",
+            "Dubai has indoor ski slopes in the middle of the desert.",
+            "The Dubai Mall is one of the largest shopping malls in the world.",
+            "The city has a growing art scene with galleries and museums.",
+            "Dubai is a major hub for business and tourism."
+        ],
+        "trivia": [
+            "The Dubai Fountain is the world's largest choreographed fountain system.",
+            "The city has a diverse population with over 200 nationalities.",
+            "Gold is a popular commodity in Dubai, with a dedicated Gold Souk.",
+            "Falconry is a traditional sport in the UAE.",
+            "Dates are a staple food and often served with Arabic coffee."
+        ]
+    },
+    {
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "clues": [
+            "Home to the iconic Christ the Redeemer statue.",
+            "Known for its beautiful beaches, including Copacabana and Ipanema.",
+            "Sugarloaf Mountain offers stunning views of the city.",
+            "It has a vibrant Carnival celebration with music and dance.",
+            "Famous for its Brazilian barbecue and caipirinhas."
+        ],
+        "fun_fact": [
+            "The Christ the Redeemer statue is one of the New Seven Wonders of the World.",
+            "Rio de Janeiro was once the capital of both Brazil and Portugal.",
+            "The city is surrounded by lush rainforests.",
+            "Favelas, or hillside communities, are a part of Rio's landscape.",
+            "The Maracana Stadium is one of the largest football stadiums in the world."
+        ],
+        "trivia": [
+            "Samba is a popular dance and music genre in Rio.",
+            "The city hosted the 2016 Summer Olympics.",
+            "Bossa nova, a musical style, originated in Rio.",
+            "Feijoada, a black bean stew, is a traditional Brazilian dish.",
+            "The city has a diverse population with influences from Africa, Europe, and indigenous cultures."
+        ]
+    },
+    {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "clues": [
+            "Known for its canals and charming houses.",
+            "Home to the Anne Frank House and Rijksmuseum.",
+            "It has a liberal and tolerant atmosphere.",
+            "Famous for its bicycles and coffee shops",
+            "Offers a rich history and cultural experiences."
+        ],
+        "fun_fact": [
+            "Amsterdam has more canals than Venice.",
+            "The city is built on poles due to the soft ground.",
+            "The Rijksmuseum houses masterpieces by Dutch Masters like Rembrandt.",
+            "The Anne Frank House is a poignant reminder of World War II.",
+            "Amsterdam has a thriving nightlife scene."
+        ],
+        "trivia": [
+            "Tulips are a national symbol of the Netherlands.",
+            "Stroopwafels are a popular Dutch treat.",
+            "The city has numerous windmills, some of which are still functional.",
+            "Amsterdam is known for its cheese markets.",
+            "King's Day is a major national holiday with celebrations and festivities."
+        ]
+    }
+]
+

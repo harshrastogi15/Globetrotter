@@ -1,0 +1,252 @@
+[
+    {
+        "city": "Kyoto",
+        "country": "Japan",
+        "clues": [
+            "Known for its traditional wooden temples and gardens.",
+            "Home to the Fushimi Inari Shrine with thousands of red torii gates.",
+            "It was the imperial capital of Japan for over a thousand years.",
+            "Famous for its geisha districts and tea ceremonies.",
+            "Offers a glimpse into ancient Japanese culture."
+        ],
+        "fun_fact": [
+            "Kyoto has over 2,000 temples and shrines.",
+            "The Golden Pavilion (Kinkaku-ji) is covered in gold leaf.",
+            "Bamboo Forest in Arashiyama is a popular scenic spot.",
+            "Kyoto's traditional wooden townhouses are called machiya.",
+            "The Gion district is known for its preserved traditional architecture."
+        ],
+        "trivia": [
+            "Kyoto cuisine (Kyo-ryori) emphasizes seasonal ingredients.",
+            "The city has numerous traditional craft shops.",
+            "The Aoi Matsuri festival is one of Kyoto's major events.",
+            "Kyoto was spared from bombing during World War II.",
+            "The Nishiki Market is known as 'Kyoto's Kitchen'."
+        ]
+    },
+    {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "clues": [
+            "Dominated by the iconic Table Mountain.",
+            "Known for its beautiful beaches and vibrant waterfront.",
+            "The Cape of Good Hope is a scenic drive away.",
+            "It has a diverse cultural heritage and wine regions.",
+            "Famous for its outdoor activities and natural beauty."
+        ],
+        "fun_fact": [
+            "Table Mountain is often covered by a 'tablecloth' of clouds.",
+            "Cape Town is the oldest city in South Africa.",
+            "Robben Island, where Nelson Mandela was imprisoned, is a UNESCO site.",
+            "The city has a rich floral kingdom with unique plant species.",
+            "Cape Town is a major center for design and innovation."
+        ],
+        "trivia": [
+            "Bo-Kaap is known for its colorful houses and Cape Malay cuisine.",
+            "Biltong, dried cured meat, is a popular local snack.",
+            "The city has a thriving art scene with galleries and festivals.",
+            "Whale watching is a popular activity during certain seasons.",
+            "The Kirstenbosch National Botanical Garden is one of the world's most beautiful gardens."
+        ]
+    },
+    {
+        "city": "Berlin",
+        "country": "Germany",
+        "clues": [
+            "Known for its historical landmarks and vibrant nightlife.",
+            "The Brandenburg Gate is a symbol of German reunification.",
+            "The Berlin Wall Memorial is a reminder of the city's divided past.",
+            "It has a thriving arts and music scene.",
+            "Famous for its diverse food and beer culture."
+        ],
+        "fun_fact": [
+            "Berlin has more bridges than Venice.",
+            "The East Side Gallery is a preserved section of the Berlin Wall covered in murals.",
+            "The city has over 170 museums.",
+            "Berlin is known for its green spaces and parks.",
+            "The Reichstag building has a glass dome offering panoramic views."
+        ],
+        "trivia": [
+            "Currywurst is a popular Berlin street food.",
+            "The city has a vibrant techno music scene.",
+            "Berlin is known for its flea markets and vintage shops.",
+            "The city has a multicultural population with diverse neighborhoods.",
+            "Berliner Weisse, a sour beer, is a local specialty."
+        ]
+    },
+    {
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "clues": [
+            "Known for its tango dancing and European-style architecture.",
+            "The colorful La Boca district is a popular tourist spot.",
+            "It has a passionate football culture and vibrant nightlife.",
+            "Famous for its steak and Malbec wine.",
+            "Offers a mix of old-world charm and modern energy."
+        ],
+        "fun_fact": [
+            "Buenos Aires is often called the 'Paris of South America'.",
+            "The city has numerous grand theaters and opera houses.",
+            "Recoleta Cemetery is known for its elaborate mausoleums.",
+            "The Obelisco is a major landmark in the city center.",
+            "Buenos Aires has a strong literary tradition with many bookstores and cafes."
+        ],
+        "trivia": [
+            "Dulce de leche is a popular Argentine sweet treat.",
+            "Mate is a traditional South American infused drink.",
+            "The city has a thriving street art scene.",
+            "Football matches are a major social event.",
+            "Empanadas are a common snack and street food."
+        ]
+    },
+    {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "clues": [
+            "Known for its bustling souks and vibrant Medina.",
+            "Jemaa el-Fnaa square comes alive with street performers at night.",
+            "It has beautiful gardens and palaces.",
+            "Famous for its traditional Moroccan cuisine and mint tea.",
+            "Offers a sensory experience of sights, sounds, and smells."
+        ],
+        "fun_fact": [
+            "Marrakech is known as the 'Red City' because of its red sandstone buildings.",
+            "The Bahia Palace is a masterpiece of Moroccan architecture.",
+            "The Majorelle Garden is a tranquil oasis in the city.",
+            "Marrakech has a rich history as a major trading hub.",
+            "The city has traditional hammams (bathhouses)."
+        ],
+        "trivia": [
+            "Tagine and couscous are staple Moroccan dishes.",
+            "Mint tea is a symbol of hospitality.",
+            "Leather goods and carpets are popular souvenirs.",
+            "The city has numerous traditional riads (courtyard houses).",
+            "Arabic and Berber cultures blend in Marrakech."
+        ]
+    },
+    {
+        "city": "Vancouver",
+        "country": "Canada",
+        "clues": [
+            "Known for its stunning natural setting with mountains and ocean.",
+            "Stanley Park is a large urban park with seawall views.",
+            "It has a diverse cultural scene and outdoor activities.",
+            "Famous for its fresh seafood and multicultural cuisine.",
+            "Offers a blend of urban living and natural beauty."
+        ],
+        "fun_fact": [
+            "Vancouver has one of the mildest climates in Canada.",
+            "The city has a thriving film industry, often called 'Hollywood North'.",
+            "Granville Island is a popular public market and arts district.",
+            "Vancouver has a large Chinatown with rich cultural heritage.",
+            "The Capilano Suspension Bridge offers thrilling views."
+        ],
+        "trivia": [
+            "Salmon is a staple of Pacific Northwest cuisine.",
+            "The city has numerous craft breweries.",
+            "Hiking and skiing are popular activities in the surrounding mountains.",
+            "Vancouver has a strong focus on sustainability and green initiatives.",
+            "The First Nations culture is an important part of the city's heritage."
+        ]
+    },
+    {
+        "city": "Hanoi",
+        "country": "Vietnam",
+        "clues": [
+            "Known for its Old Quarter with narrow streets and traditional shops.",
+            "Hoan Kiem Lake is a central landmark with a historic temple.",
+            "It has a rich history and French colonial architecture.",
+            "Famous for its street food, including pho and banh mi.",
+            "Offers a glimpse into traditional Vietnamese life."
+        ],
+        "fun_fact": [
+            "Hanoi is the capital of Vietnam.",
+            "The city has numerous lakes and parks.",
+            "The Temple of Literature is Vietnam's first national university.",
+            "Hanoi has a thriving art scene with galleries and performances.",
+            "The Water Puppet Theater is a unique cultural experience."
+        ],
+        "trivia": [
+            "Pho is a traditional Vietnamese noodle soup.",
+            "Vietnamese coffee is strong and often served with condensed milk.",
+            "Cyclos (pedicabs) are a popular way to explore the Old Quarter.",
+            "Hanoi has a vibrant night market.",
+            "The city has a blend of Vietnamese and French architectural influences."
+        ]
+    },
+    {
+        "city": "Prague",
+        "country": "Czech Republic",
+        "clues": [
+            "Known for its fairytale architecture and Charles Bridge.",
+            "Prague Castle is one of the largest ancient castles in the world.",
+            "The Astronomical Clock is a popular tourist attraction.",
+            "Famous for its beer and traditional Czech cuisine.",
+            "Offers a romantic atmosphere and rich history."
+        ],
+        "fun_fact": [
+            "Prague is often called the 'City of a Hundred Spires'.",
+            "The Charles Bridge is lined with statues of saints.",
+            "The Prague Castle complex includes palaces, churches, and gardens.",
+            "The city has a thriving classical music scene.",
+            "Prague was once the capital of the Holy Roman Empire."
+        ],
+        "trivia": [
+            "Trdelník is a popular Czech pastry.",
+            "Pilsner Urquell beer originated in the Czech Republic.",
+            "The Jewish Quarter has historic synagogues and a cemetery.",
+            "The city has a vibrant puppetry tradition.",
+            "The Velvet Revolution in 1989 led to the end of communist rule."
+        ]
+    },
+    {
+        "city": "Los Angeles",
+        "country": "USA",
+        "clues": [
+            "Known for Hollywood and the entertainment industry.",
+            "Home to the iconic Hollywood Walk of Fame.",
+            "It has beautiful beaches and a sprawling urban landscape.",
+            "Famous for its diverse food scene and car culture.",
+            "Offers a mix of glamour, beaches, and cultural experiences."
+        ],
+        "fun_fact": [
+            "The Hollywood sign originally read 'Hollywoodland'.",
+            "Los Angeles has hosted the Summer Olympics twice.",
+            "The city has a large network of freeways.",
+            "Griffith Observatory offers stunning views of the city and Hollywood sign.",
+            "Los Angeles has a diverse population with people from over 140 countries."
+        ],
+        "trivia": [
+            "In-N-Out Burger is a popular California fast-food chain.",
+            "The city has numerous museums, including the Getty Center.",
+            "Surfing is a popular activity on the beaches.",
+            "Los Angeles has a vibrant street art scene.",
+            "The city is known for its Mexican-American culture and cuisine."
+        ]
+    },
+    {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "clues": [
+            "Spans two continents, Europe and Asia.",
+            "Home to the Hagia Sophia, a masterpiece of Byzantine architecture.",
+            "The Grand Bazaar is one of the oldest and largest covered markets.",
+            "Famous for its Turkish delights and coffee.",
+            "Offers a blend of historical and modern attractions."
+        ],
+        "fun_fact": [
+            "Istanbul was once the capital of the Byzantine and Ottoman Empires.",
+            "The city has numerous mosques, including the Blue Mosque.",
+            "The Topkapi Palace was the residence of Ottoman sultans.",
+            "Istanbul is known for its Turkish baths (hammams).",
+            "The Bosphorus Strait separates Europe and Asia."
+        ],
+        "trivia": [
+            "Baklava is a popular Turkish pastry.",
+            "Turkish coffee is traditionally served in small cups.",
+            "The city has a vibrant nightlife scene.",
+            "Istanbul is a major center for trade and tourism.",
+            "The Galata Tower offers panoramic views of the city."
+        ]
+    }
+]

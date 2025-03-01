@@ -1,0 +1,252 @@
+[
+    {
+        "city": "Reykjavik",
+        "country": "Iceland",
+        "clues": [
+            "Known for its colorful houses and geothermal activity.",
+            "The Hallgrímskirkja church is a prominent landmark.",
+            "The Blue Lagoon is a geothermal spa.",
+            "Famous for its Northern Lights and Icelandic cuisine.",
+            "Offers a blend of natural wonders and Nordic charm."
+        ],
+        "fun_fact": [
+            "Reykjavik is the capital of Iceland.",
+            "The city has numerous parks and waterfront areas.",
+            "Reykjavik has a rich history of Viking settlement.",
+            "The city has a thriving arts and music scene.",
+            "Reykjavik is known for its geothermal heating and renewable energy."
+        ],
+        "trivia": [
+            "Skyr is a popular Icelandic dairy product.",
+            "Icelandic lamb is known for its quality.",
+            "The city has numerous cafes and restaurants.",
+            "Reykjavik is known for its Northern Lights viewing opportunities.",
+            "The city has a rich history of Icelandic sagas and literature."
+        ]
+    },
+    {
+        "city": "Muscat",
+        "country": "Oman",
+        "clues": [
+            "Known for its traditional architecture and mountainous landscapes.",
+            "The Sultan Qaboos Grand Mosque is a prominent landmark.",
+            "The Mutrah Souq is a traditional market.",
+            "Famous for its frankincense and Omani hospitality.",
+            "Offers a blend of Arabian heritage and natural beauty."
+        ],
+        "fun_fact": [
+            "Muscat is the capital of Oman.",
+            "The city has numerous parks and coastal areas.",
+            "Muscat has a rich history of maritime trade.",
+            "The city has a thriving arts and cultural scene.",
+            "Muscat is known for its traditional Omani architecture and forts."
+        ],
+        "trivia": [
+            "Shuwa is a traditional Omani dish.",
+            "Omani coffee is served with dates.",
+            "The city has numerous markets and craft shops.",
+            "Muscat is known for its wadis (valleys) and hiking trails.",
+            "The city has a rich history of Islamic culture and traditions."
+        ]
+    },
+    {
+        "city": "Wellington",
+        "country": "New Zealand",
+        "clues": [
+            "Known for its windy weather and creative culture.",
+            "The Te Papa Museum is a prominent cultural attraction.",
+            "Mount Victoria offers panoramic views of the city.",
+            "Famous for its craft beer and coffee culture.",
+            "Offers a blend of urban energy and natural beauty."
+        ],
+        "fun_fact": [
+            "Wellington is the capital of New Zealand.",
+            "The city has numerous parks and waterfront areas.",
+            "Wellington has a thriving film industry.",
+            "The city has a thriving arts and music scene.",
+            "Wellington is known for its windy weather and harbor."
+        ],
+        "trivia": [
+            "Pavlova is a popular dessert.",
+            "New Zealand craft beer is known for its quality.",
+            "The city has numerous cafes and restaurants.",
+            "Wellington is known for its performing arts and theaters.",
+            "The city has a rich history of Maori and European settlement."
+        ]
+    },
+    {
+        "city": "Córdoba",
+        "country": "Spain",
+        "clues": [
+            "Known for its historic mosque-cathedral and flower-filled patios.",
+            "The Mezquita (Mosque-Cathedral) is a UNESCO World Heritage Site.",
+            "The Roman Bridge is a prominent landmark.",
+            "Famous for its Andalusian culture and cuisine.",
+            "Offers a blend of Islamic and Christian heritage."
+        ],
+        "fun_fact": [
+            "Córdoba has a rich history dating back to Roman times.",
+            "The city has numerous patios filled with flowers.",
+            "Córdoba was a major center of Islamic learning.",
+            "The city has a thriving arts and cultural scene.",
+            "Córdoba is known for its Jewish Quarter and synagogues."
+        ],
+        "trivia": [
+            "Salmorejo is a popular Cordoban soup.",
+            "Andalusian olive oil is known for its quality.",
+            "The city has numerous markets and craft shops.",
+            "Córdoba is known for its flamenco music and dance.",
+            "The city has a rich history of religious tolerance and coexistence."
+        ]
+    },
+    {
+        "city": "Asunción",
+        "country": "Paraguay",
+        "clues": [
+            "Known for its colonial architecture and riverfront views.",
+            "The Palacio de los López is a prominent landmark.",
+            "The Costanera is a riverfront promenade.",
+            "Famous for its Paraguayan harp music and cuisine.",
+            "Offers a blend of colonial history and South American charm."
+        ],
+        "fun_fact": [
+            "Asunción is the capital of Paraguay.",
+            "The city has numerous parks and plazas.",
+            "Asunción has a rich history of indigenous and Spanish influences.",
+            "The city has a thriving arts and cultural scene.",
+            "Asunción is known for its traditional Paraguayan crafts."
+        ],
+        "trivia": [
+            "Sopa Paraguaya is a popular cornbread dish.",
+            "Terere is a traditional Paraguayan infused drink.",
+            "The city has numerous markets and street food stalls.",
+            "Asunción is known for its Paraguayan harp music and dance.",
+            "The city has a rich history of political and social development."
+        ]
+    },
+    {
+        "city": "Tallinn",
+        "country": "Estonia",
+        "clues": [
+            "Known for its medieval Old Town and tech scene.",
+            "The Old Town is a UNESCO World Heritage Site.",
+            "Toompea Castle is a prominent landmark.",
+            "Famous for its innovative tech start-ups and Nordic cuisine.",
+            "Offers a blend of medieval charm and modern innovation."
+        ],
+        "fun_fact": [
+            "Tallinn is the capital of Estonia.",
+            "The city has numerous parks and green spaces.",
+            "Tallinn has a rich history of Hanseatic trade.",
+            "The city has a thriving tech and start-up scene.",
+            "Tallinn is known for its digital services and e-residency."
+        ],
+        "trivia": [
+            "Rye bread is a staple of Estonian cuisine.",
+            "Vana Tallinn is a popular Estonian liqueur.",
+            "The city has numerous markets and craft shops.",
+            "Tallinn is known for its medieval festivals and events.",
+            "The city has a rich history of Baltic and Nordic influences."
+        ]
+    },
+    {
+        "city": "Dakar",
+        "country": "Senegal",
+        "clues": [
+            "Known for its vibrant music scene and Atlantic coastline.",
+            "The Île de Gorée is a UNESCO World Heritage Site.",
+            "The African Renaissance Monument is a prominent landmark.",
+            "Famous for its Senegalese cuisine and music (Mbalax).",
+            "Offers a blend of African culture and coastal beauty."
+        ],
+        "fun_fact": [
+            "Dakar is the capital of Senegal.",
+            "The city has numerous beaches and waterfront areas.",
+            "Dakar has a rich history of French colonial rule.",
+            "The city has a thriving arts and music scene.",
+            "Dakar is known for its markets and traditional crafts."
+        ],
+        "trivia": [
+            "Thieboudienne is a popular Senegalese fish dish.",
+            "Café Touba is a traditional Senegalese coffee.",
+            "The city has numerous markets and street food stalls.",
+            "Dakar is known for its wrestling (Laamb) and music festivals.",
+            "The city has a rich history of African and French influences."
+        ]
+    },
+    {
+        "city": "Managua",
+        "country": "Nicaragua",
+        "clues": [
+            "Known for its lakes and volcanic landscapes.",
+            "The National Palace of Culture is a prominent landmark.",
+            "Lake Managua is a large freshwater lake.",
+            "Famous for its Nicaraguan coffee and rum.",
+            "Offers a blend of natural beauty and Central American culture."
+        ],
+        "fun_fact": [
+            "Managua is the capital of Nicaragua.",
+            "The city has numerous parks and lakeshore areas.",
+            "Managua has a rich history of political and social development.",
+            "The city has a thriving arts and cultural scene.",
+            "Managua is known for its volcanic landscapes and seismic activity."
+        ],
+        "trivia": [
+            "Gallo Pinto is a popular Nicaraguan dish.",
+            "Nicaraguan coffee is known for its quality.",
+            "The city has numerous markets and craft shops.",
+            "Managua is known for its folk music and dance.",
+            "The city has a rich history of indigenous and Spanish influences."
+        ]
+    },
+    {
+        "city": "Algiers",
+        "country": "Algeria",
+        "clues": [
+            "Known for its Casbah and Mediterranean coastline.",
+            "The Casbah of Algiers is a UNESCO World Heritage Site.",
+            "The Notre Dame d'Afrique is a prominent landmark.",
+            "Famous for its Algerian cuisine and music (Raï).",
+            "Offers a blend of North African culture and coastal charm."
+        ],
+        "fun_fact": [
+            "Algiers is the capital of Algeria.",
+            "The city has numerous parks and waterfront areas.",
+            "Algiers has a rich history of Berber and French influences.",
+            "The city has a thriving arts and music scene.",
+            "Algiers is known for its traditional markets and crafts."
+        ],
+        "trivia": [
+            "Couscous is a staple of Algerian cuisine.",
+            "Mint tea is a traditional Algerian drink.",
+            "The city has numerous markets and street food stalls.",
+            "Algiers is known for its traditional music and dance.",
+            "The city has a rich history of Islamic architecture and culture."
+        ]
+    },
+    {
+        "city": "Kathmandu",
+        "country": "Nepal",
+        "clues": [
+            "Known for its ancient temples and Himalayan views.",
+            "The Swayambhunath (Monkey Temple) is a sacred Buddhist site.",
+            "The Boudhanath Stupa is one of the largest stupas in the world.",
+            "Famous for its trekking adventures and spiritual atmosphere.",
+            "Offers a rich cultural heritage and natural beauty."
+        ],
+        "fun_fact": [
+            "Kathmandu is the capital of Nepal.",
+            "The city is located in a valley surrounded by mountains.",
+            "Kathmandu has numerous UNESCO World Heritage Sites.",
+            "The Pashupatinath Temple is a sacred Hindu site.",
+            "Kathmandu is a gateway to the Himalayas."
+        ],
+        "trivia": [
+            "Dal bhat is a traditional Nepali meal.",
+            "Momos are popular dumplings.",
+            "The city has numerous shops selling handicrafts and souvenirs.",
+            "Thangka paintings are a traditional art form.",
+            "The Kathmandu Valley has a rich history and cultural significance."
+        ]
+    }
+]

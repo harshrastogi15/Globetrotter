@@ -1,0 +1,252 @@
+[
+    {
+        "city": "Lyon",
+        "country": "France",
+        "clues": [
+            "Known for its gastronomy and historic architecture.",
+            "Vieux Lyon is a UNESCO World Heritage Site with Renaissance buildings.",
+            "The Basilica of Notre-Dame de Fourvière offers panoramic views.",
+            "Famous for its bouchons (traditional restaurants) and Beaujolais wine.",
+            "Offers a blend of culinary excellence and historical charm."
+        ],
+        "fun_fact": [
+            "Lyon is considered the gastronomic capital of France.",
+            "The city has numerous parks and rivers.",
+            "Lyon was a major center for silk production.",
+            "The city has a thriving arts and culture scene.",
+            "Lyon is known for its traboules (hidden passageways)."
+        ],
+        "trivia": [
+            "Quenelles are a popular Lyonnaise dish.",
+            "Prunes and chocolate are popular local treats.",
+            "The city has numerous food markets and festivals.",
+            "Lyon is known for its street art and murals.",
+            "The city has a rich history dating back to Roman times."
+        ]
+    },
+    {
+        "city": "Naples",
+        "country": "Italy",
+        "clues": [
+            "Known for its pizza and historic city center.",
+            "Pompeii is an ancient Roman city preserved by volcanic ash.",
+            "The National Archaeological Museum houses ancient artifacts.",
+            "Famous for its street food and lively atmosphere.",
+            "Offers a blend of history, culture, and culinary delights."
+        ],
+        "fun_fact": [
+            "Naples is the birthplace of pizza.",
+            "The city has numerous castles and churches.",
+            "Naples has a rich history dating back to ancient Greece.",
+            "The city is located near Mount Vesuvius.",
+            "Naples has a vibrant street art scene."
+        ],
+        "trivia": [
+            "Pizza Margherita is a classic Neapolitan pizza.",
+            "Espresso is a staple of Neapolitan coffee culture.",
+            "The city has numerous markets and shops.",
+            "Naples is known for its presepi (Nativity scenes).",
+            "The city has a lively nightlife scene."
+        ]
+    },
+    {
+        "city": "Warsaw",
+        "country": "Poland",
+        "clues": [
+            "Known for its reconstructed Old Town and historical landmarks.",
+            "The Old Town is a UNESCO World Heritage Site.",
+            "The Warsaw Uprising Museum commemorates the city's wartime history.",
+            "Famous for its pierogi and vodka.",
+            "Offers a blend of historical resilience and modern vibrancy."
+        ],
+        "fun_fact": [
+            "Warsaw is the capital of Poland.",
+            "The city was heavily damaged during World War II and meticulously rebuilt.",
+            "Warsaw has numerous parks and green spaces.",
+            "The city has a thriving arts and culture scene.",
+            "Warsaw is a major center for business and education."
+        ],
+        "trivia": [
+            "Pierogi are a popular Polish dumpling.",
+            "Vodka is a traditional Polish spirit.",
+            "The city has numerous museums and galleries.",
+            "Warsaw has a vibrant theater and music scene.",
+            "The city has a rich history of classical music."
+        ]
+    },
+    {
+        "city": "Lima",
+        "country": "Peru",
+        "clues": [
+            "Known for its colonial architecture and Pacific coastline.",
+            "The Historic Center is a UNESCO World Heritage Site.",
+            "The Larco Museum houses pre-Columbian artifacts.",
+            "Famous for its ceviche and Peruvian cuisine.",
+            "Offers a blend of historical charm and culinary excellence."
+        ],
+        "fun_fact": [
+            "Lima is the capital of Peru.",
+            "The city has numerous parks and beaches.",
+            "Lima has a rich history dating back to pre-Columbian times.",
+            "The city has a thriving arts and culture scene.",
+            "Lima is known for its cliffside parks overlooking the Pacific Ocean."
+        ],
+        "trivia": [
+            "Ceviche is a popular Peruvian seafood dish.",
+            "Pisco Sour is a traditional Peruvian cocktail.",
+            "The city has numerous markets and shops.",
+            "Lima is known for its street art and murals.",
+            "The city has a diverse population with indigenous and European influences."
+        ]
+    },
+    {
+        "city": "Budapest",
+        "country": "Hungary",
+        "clues": [
+            "Known for its thermal baths and historic architecture.",
+            "The Buda Castle is a historic landmark overlooking the Danube River.",
+            "The Szechenyi Thermal Bath is one of the largest bath complexes in Europe.",
+            "Famous for its goulash and ruin bars.",
+            "Offers a blend of historical grandeur and vibrant nightlife."
+        ],
+        "fun_fact": [
+            "Budapest is the capital of Hungary.",
+            "The city is divided by the Danube River into Buda and Pest.",
+            "Budapest has numerous bridges connecting Buda and Pest.",
+            "The city has a thriving arts and culture scene.",
+            "Budapest is known for its Art Nouveau architecture."
+        ],
+        "trivia": [
+            "Goulash is a traditional Hungarian stew.",
+            "Palinka is a popular Hungarian fruit brandy.",
+            "The city has numerous markets and shops.",
+            "Budapest is known for its ruin bars in the Jewish Quarter.",
+            "The city has a rich history of classical music."
+        ]
+    },
+    {
+        "city": "Edinburgh",
+        "country": "Scotland",
+        "clues": [
+            "Known for its medieval Old Town and Georgian New Town.",
+            "Edinburgh Castle is a historic fortress overlooking the city.",
+            "Arthur's Seat is a prominent hill offering panoramic views.",
+            "Famous for its whisky and traditional Scottish cuisine.",
+            "Offers a blend of historical charm and literary heritage."
+        ],
+        "fun_fact": [
+            "Edinburgh is the capital of Scotland.",
+            "The city has numerous parks and gardens.",
+            "Edinburgh has a rich literary history with writers like Robert Louis Stevenson and Sir Walter Scott.",
+            "The city has a thriving arts and festival scene.",
+            "Edinburgh is known for its annual Fringe Festival."
+        ],
+        "trivia": [
+            "Haggis is a traditional Scottish dish.",
+            "Scotch whisky is a popular Scottish spirit.",
+            "The city has numerous pubs and bars.",
+            "Edinburgh is known for its ghost tours and haunted history.",
+            "The city has a rich history of bagpipe music."
+        ]
+    },
+    {
+        "city": "Copenhagen",
+        "country": "Denmark",
+        "clues": [
+            "Known for its colorful harbor and design scene.",
+            "Nyhavn is a picturesque harbor with colorful buildings.",
+            "The Little Mermaid statue is a famous landmark.",
+            "Famous for its smørrebrød and New Nordic cuisine.",
+            "Offers a blend of design innovation and fairytale charm."
+        ],
+        "fun_fact": [
+            "Copenhagen is the capital of Denmark.",
+            "The city has numerous parks and canals.",
+            "Copenhagen is known for its design and architecture.",
+            "The city has a thriving cycling culture.",
+            "Copenhagen is known for its commitment to sustainability."
+        ],
+        "trivia": [
+            "Smørrebrød is a popular Danish open-faced sandwich.",
+            "Aquavit is a traditional Scandinavian spirit.",
+            "The city has numerous markets and shops.",
+            "Copenhagen is known for its street food and food markets.",
+            "The city has a rich history of design and craftsmanship."
+        ]
+    },
+    {
+        "city": "Medellín",
+        "country": "Colombia",
+        "clues": [
+            "Known as the 'City of Eternal Spring' and its innovative urban development.",
+            "Comuna 13 is known for its street art and transformation.",
+            "The Botanical Garden is a lush green space.",
+            "Famous for its coffee and vibrant nightlife.",
+            "Offers a blend of urban renewal and natural beauty."
+        ],
+        "fun_fact": [
+            "Medellín is the capital of Antioquia department.",
+            "The city has numerous parks and green spaces.",
+            "Medellín has undergone a significant transformation in recent years.",
+            "The city has a thriving arts and culture scene.",
+            "Medellín is known for its innovative public transportation system."
+        ],
+        "trivia": [
+            "Bandeja Paisa is a traditional Colombian dish.",
+            "Colombian coffee is known for its quality.",
+            "The city has numerous markets and shops.",
+            "Medellín is known for its street art and murals.",
+            "The city has a vibrant music and dance scene."
+        ]
+    },
+    {
+        "city": "Taipei",
+        "country": "Taiwan",
+        "clues": [
+            "Known for its night markets and modern skyscrapers.",
+            "Taipei 101 is a prominent landmark with panoramic views.",
+            "The National Palace Museum houses Chinese artifacts.",
+            "Famous for its bubble tea and street food.",
+            "Offers a blend of modern urban living and traditional culture."
+        ],
+        "fun_fact": [
+            "Taipei is the capital of Taiwan.",
+            "The city has numerous parks and hot springs.",
+            "Taipei has a thriving tech industry.",
+            "The city has a diverse mix of cultural influences.",
+            "Taipei is known for its efficient public transportation system."
+        ],
+        "trivia": [
+            "Xiao long bao is a popular Taiwanese dumpling.",
+            "Bubble tea is a popular Taiwanese drink.",
+            "The city has numerous night markets with street food.",
+            "Taipei is known for its tea culture.",
+            "The city has a vibrant arts and design scene."
+        ]
+    },
+    {
+        "city": "Brisbane",
+        "country": "Australia",
+        "clues": [
+            "Known for its river and outdoor lifestyle.",
+            "South Bank Parklands is a popular recreational area.",
+            "The Story Bridge offers panoramic views of the city.",
+            "Famous for its relaxed atmosphere and outdoor dining.",
+            "Offers a blend of urban living and natural beauty."
+        ],
+        "fun_fact": [
+            "Brisbane is the capital of Queensland.",
+            "The city has numerous parks and green spaces.",
+            "Brisbane has a subtropical climate.",
+            "The city has a thriving arts and culture scene.",
+            "Brisbane is known for its friendly and relaxed atmosphere."
+        ],
+        "trivia": [
+            "Lamingtons are a popular Australian dessert.",
+            "Brisbane is known for its coffee culture.",
+            "The city has numerous markets and shops.",
+            "Brisbane is known for its river cruises and water activities.",
+            "The city has a rich history of indigenous culture."
+        ]
+    }
+]

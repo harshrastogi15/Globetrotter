@@ -1,0 +1,252 @@
+[
+    {
+        "city": "Stockholm",
+        "country": "Sweden",
+        "clues": [
+            "Known for its archipelago and colorful buildings.",
+            "Gamla Stan is the old town with medieval streets.",
+            "The Vasa Museum houses a salvaged 17th-century warship.",
+            "Famous for its design and innovative cuisine.",
+            "Offers a blend of natural beauty and urban sophistication."
+        ],
+        "fun_fact": [
+            "Stockholm is built on 14 islands.",
+            "The city has numerous parks and green spaces.",
+            "Stockholm is the capital of Sweden.",
+            "The Nobel Prize ceremonies are held in Stockholm.",
+            "The city has a strong focus on sustainability."
+        ],
+        "trivia": [
+            "Swedish meatballs are a popular dish.",
+            "Fika is a Swedish concept of taking a coffee break.",
+            "The city has numerous design shops and galleries.",
+            "Midsummer is a major celebration in Sweden.",
+            "The Stockholm metro is known for its art installations."
+        ]
+    },
+    {
+        "city": "Helsinki",
+        "country": "Finland",
+        "clues": [
+            "Known for its design district and modern architecture.",
+            "The Helsinki Cathedral is a prominent landmark.",
+            "Suomenlinna is a sea fortress and UNESCO World Heritage Site.",
+            "Famous for its saunas and Nordic cuisine.",
+            "Offers a blend of urban living and natural surroundings."
+        ],
+        "fun_fact": [
+            "Helsinki is the capital of Finland.",
+            "The city has numerous islands and coastline.",
+            "Helsinki is known for its design and architecture.",
+            "The city has a thriving tech industry.",
+            "Helsinki has a strong focus on sustainability and green initiatives."
+        ],
+        "trivia": [
+            "Salmon soup is a popular Finnish dish.",
+            "Sauna is an integral part of Finnish culture.",
+            "The city has numerous public saunas.",
+            "The Design District is a hub for Finnish design.",
+            "The city has a vibrant cultural scene with festivals and events."
+        ]
+    },
+    {
+        "city": "Auckland",
+        "country": "New Zealand",
+        "clues": [
+            "Known as the 'City of Sails' with numerous harbors.",
+            "The Sky Tower offers panoramic views of the city.",
+            "Rangitoto Island is a volcanic island in the harbor.",
+            "Famous for its outdoor activities and Maori culture.",
+            "Offers a blend of urban living and natural beauty."
+        ],
+        "fun_fact": [
+            "Auckland is the largest city in New Zealand.",
+            "The city is built on volcanic fields.",
+            "Auckland has a diverse population with Polynesian and European influences.",
+            "The city has numerous parks and beaches.",
+            "Auckland is a major center for sailing and water sports."
+        ],
+        "trivia": [
+            "Hangi is a traditional Maori cooking method.",
+            "Pavlova is a popular dessert.",
+            "The city has numerous vineyards and wineries.",
+            "The Auckland Museum showcases Maori and Pacific Island artifacts.",
+            "The city has a vibrant arts and culture scene."
+        ]
+    },
+    {
+        "city": "Chengdu",
+        "country": "China",
+        "clues": [
+            "Known for its giant pandas and spicy Sichuan cuisine.",
+            "The Chengdu Research Base of Giant Panda Breeding is a major attraction.",
+            "The Leshan Giant Buddha is a massive stone sculpture.",
+            "Famous for its tea culture and relaxed lifestyle.",
+            "Offers a blend of ancient traditions and modern development."
+        ],
+        "fun_fact": [
+            "Chengdu is the capital of Sichuan province.",
+            "The city has a rich history dating back thousands of years.",
+            "Chengdu is known for its tea houses and parks.",
+            "The city has a thriving tech industry.",
+            "Chengdu is a major transportation hub in western China."
+        ],
+        "trivia": [
+            "Mapo tofu is a popular Sichuan dish.",
+            "Hot pot is a staple of Sichuan cuisine.",
+            "The city has numerous tea houses and gardens.",
+            "Sichuan opera is a traditional art form.",
+            "Chengdu has a relaxed pace of life compared to other Chinese megacities."
+        ]
+    },
+    {
+        "city": "Nairobi",
+        "country": "Kenya",
+        "clues": [
+            "Known for its wildlife and national parks.",
+            "Nairobi National Park is located within the city limits.",
+            "The David Sheldrick Wildlife Trust rescues and rehabilitates elephants.",
+            "Famous for its coffee and diverse cultural influences.",
+            "Offers a blend of urban living and wildlife experiences."
+        ],
+        "fun_fact": [
+            "Nairobi is the capital of Kenya.",
+            "The city has a diverse population with numerous ethnic groups.",
+            "Nairobi is a major business and transportation hub in East Africa.",
+            "The city has numerous markets and cultural centers.",
+            "Nairobi has a growing tech industry."
+        ],
+        "trivia": [
+            "Ugali is a staple Kenyan dish.",
+            "Kenyan coffee is known for its quality.",
+            "The city has numerous craft markets and shops.",
+            "Maasai culture is a prominent part of Kenyan heritage.",
+            "The city has a vibrant music and arts scene."
+        ]
+    },
+    {
+        "city": "Antalya",
+        "country": "Turkey",
+        "clues": [
+            "Known for its beautiful beaches and ancient ruins.",
+            "The Old Town (Kaleiçi) has historic architecture.",
+            "The Antalya Museum houses ancient artifacts.",
+            "Famous for its Mediterranean cuisine and vibrant nightlife.",
+            "Offers a blend of history, beaches, and relaxation."
+        ],
+        "fun_fact": [
+            "Antalya is a major tourist destination on the Turkish Riviera.",
+            "The city has numerous waterfalls and natural attractions.",
+            "Antalya has a rich history dating back to ancient times.",
+            "The city has a thriving marina and harbor.",
+            "Antalya has a warm Mediterranean climate."
+        ],
+        "trivia": [
+            "Meze is a popular selection of appetizers.",
+            "Turkish tea is a staple drink.",
+            "The city has numerous markets and bazaars.",
+            "The Lycian Way is a popular hiking trail nearby.",
+            "Antalya is known for its citrus fruits and olives."
+        ]
+    },
+    {
+        "city": "Montreal",
+        "country": "Canada",
+        "clues": [
+            "Known for its European charm and bilingual culture.",
+            "Old Montreal has cobblestone streets and historic buildings.",
+            "Mount Royal Park offers panoramic views of the city.",
+            "Famous for its bagels and poutine.",
+            "Offers a blend of French and English cultures."
+        ],
+        "fun_fact": [
+            "Montreal is the largest city in Quebec.",
+            "The city has numerous festivals and cultural events.",
+            "Montreal has a vibrant arts and music scene.",
+            "The city has a thriving tech and gaming industry.",
+            "Montreal has an underground city (RESO) for winter weather."
+        ],
+        "trivia": [
+            "Poutine is a popular Quebecois dish.",
+            "Montreal bagels are distinct from New York bagels.",
+            "The city has numerous parks and green spaces.",
+            "Montreal is known for its street art and murals.",
+            "The city has a rich history of jazz music."
+        ]
+    },
+    {
+        "city": "San Diego",
+        "country": "USA",
+        "clues": [
+            "Known for its beaches and sunny weather.",
+            "Balboa Park is a large urban park with museums and gardens.",
+            "The USS Midway Museum is a naval aircraft carrier museum.",
+            "Famous for its craft beer and Mexican cuisine.",
+            "Offers a blend of outdoor activities and cultural attractions."
+        ],
+        "fun_fact": [
+            "San Diego is known for its military presence.",
+            "The city has numerous beaches and coastline.",
+            "San Diego has a thriving biotech industry.",
+            "The city has a diverse population with Mexican-American influences.",
+            "San Diego is home to the world-famous San Diego Zoo."
+        ],
+        "trivia": [
+            "California burritos are a local specialty.",
+            "Craft beer is a major part of San Diego's culture.",
+            "The city has numerous surf spots and beaches.",
+            "San Diego has a vibrant arts and theater scene.",
+            "The city has a rich maritime history."
+        ]
+    },
+    {
+        "city": "Bergen",
+        "country": "Norway",
+        "clues": [
+            "Known for its colorful Bryggen wharf and fjords.",
+            "Bryggen is a UNESCO World Heritage Site with historic wooden buildings.",
+            "Mount Fløyen offers panoramic views of the city and fjords.",
+            "Famous for its seafood and outdoor activities.",
+            "Offers a blend of natural beauty and historic charm."
+        ],
+        "fun_fact": [
+            "Bergen is known as the 'Gateway to the Fjords'.",
+            "The city has numerous islands and coastline.",
+            "Bergen has a maritime history dating back to the Viking Age.",
+            "The city has a thriving music and arts scene.",
+            "Bergen has a rainy climate."
+        ],
+        "trivia": [
+            "Fish soup is a popular local dish.",
+            "Bergen is known for its fish market.",
+            "The city has numerous hiking trails and outdoor activities.",
+            "Bergen is a major port city.",
+            "The city has a rich history of Hanseatic trade."
+        ]
+    },
+    {
+        "city": "Adelaide",
+        "country": "Australia",
+        "clues": [
+            "Known for its wine regions and festivals.",
+            "The Adelaide Central Market is a vibrant food market.",
+            "The Adelaide Botanic Garden is a beautiful green space.",
+            "Famous for its arts and culture scene.",
+            "Offers a blend of urban living and natural surroundings."
+        ],
+        "fun_fact": [
+            "Adelaide is the capital of South Australia.",
+            "The city has numerous parks and green spaces.",
+            "Adelaide is known for its wine regions, including the Barossa Valley.",
+            "The city has a thriving arts and festival scene.",
+            "Adelaide has a relaxed pace of life."
+        ],
+        "trivia": [
+            "Meat pies are a popular Australian snack.",
+            "Adelaide is known for its coffee culture.",
+            "The city has numerous museums and galleries.",
+            "Adelaide is a major center for education and research.",
+            "The city has a rich history of immigration and multiculturalism."
+        ]
+    }
+]

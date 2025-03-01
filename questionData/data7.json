@@ -1,0 +1,252 @@
+[
+    {
+        "city": "Bern",
+        "country": "Switzerland",
+        "clues": [
+            "Known for its medieval architecture and bear pits.",
+            "The Old City is a UNESCO World Heritage Site.",
+            "The Zytglogge astronomical clock is a historic landmark.",
+            "Famous for its chocolate and Swiss precision.",
+            "Offers a blend of historical charm and Swiss tranquility."
+        ],
+        "fun_fact": [
+            "Bern is the capital of Switzerland.",
+            "The city has numerous arcades and fountains.",
+            "Bern has a rich history dating back to the 12th century.",
+            "The city has numerous parks and riverfront areas.",
+            "Bern is known for its bear pits, which are a symbol of the city."
+        ],
+        "trivia": [
+            "Rösti is a popular Swiss potato dish.",
+            "Swiss chocolate is known for its quality.",
+            "The city has numerous markets and shops.",
+            "Bern is known for its punctual public transportation.",
+            "The city has a rich history of Albert Einstein, who lived and worked there."
+        ]
+    },
+    {
+        "city": "San Jose",
+        "country": "Costa Rica",
+        "clues": [
+            "Known for its cultural landmarks and lush central valley.",
+            "The National Theatre of Costa Rica is a prominent cultural attraction.",
+            "The Gold Museum houses pre-Columbian artifacts.",
+            "Famous for its coffee and tropical biodiversity.",
+            "Offers a blend of urban culture and natural beauty."
+        ],
+        "fun_fact": [
+            "San Jose is the capital of Costa Rica.",
+            "The city has numerous parks and green spaces.",
+            "San Jose has a rich history of coffee production.",
+            "The city has a thriving arts and culture scene.",
+            "San Jose is known for its biodiversity and eco-tourism."
+        ],
+        "trivia": [
+            "Gallo Pinto is a popular Costa Rican dish.",
+            "Costa Rican coffee is known for its quality.",
+            "The city has numerous markets and shops.",
+            "San Jose is known for its tropical fruits and vegetables.",
+            "The city has a rich history of indigenous and Spanish influences."
+        ]
+    },
+    {
+        "city": "Hobart",
+        "country": "Australia",
+        "clues": [
+            "Known for its maritime history and MONA museum.",
+            "The Salamanca Place is a historic waterfront area.",
+            "MONA (Museum of Old and New Art) is a unique cultural attraction.",
+            "Famous for its seafood and Tasmanian wilderness.",
+            "Offers a blend of historical charm and contemporary art."
+        ],
+        "fun_fact": [
+            "Hobart is the capital of Tasmania.",
+            "The city has numerous parks and waterfront areas.",
+            "Hobart has a rich maritime history.",
+            "The city has a thriving arts and culture scene.",
+            "Hobart is known for its natural beauty and outdoor activities."
+        ],
+        "trivia": [
+            "Tasmanian seafood is known for its quality.",
+            "Tasmanian wine is a growing industry.",
+            "The city has numerous markets and shops.",
+            "Hobart is known for its hiking trails and national parks.",
+            "The city has a rich history of convict settlements."
+        ]
+    },
+    {
+        "city": "Guadalajara",
+        "country": "Mexico",
+        "clues": [
+            "Known for its tequila and mariachi music.",
+            "The Guadalajara Cathedral is a prominent landmark.",
+            "The Hospicio Cabañas is a UNESCO World Heritage Site.",
+            "Famous for its traditional Mexican culture and cuisine.",
+            "Offers a blend of historical charm and vibrant nightlife."
+        ],
+        "fun_fact": [
+            "Guadalajara is the capital of Jalisco state.",
+            "The city has numerous parks and plazas.",
+            "Guadalajara is known for its tequila production.",
+            "The city has a thriving arts and culture scene.",
+            "Guadalajara is known for its mariachi music and dance."
+        ],
+        "trivia": [
+            "Tortas ahogadas are a popular Guadalajara dish.",
+            "Tequila is a traditional Mexican spirit.",
+            "The city has numerous markets and shops.",
+            "Guadalajara is known for its traditional Mexican crafts.",
+            "The city has a rich history of colonial architecture."
+        ]
+    },
+    {
+        "city": "Colombo",
+        "country": "Sri Lanka",
+        "clues": [
+            "Known for its colonial architecture and vibrant markets.",
+            "The Gangaramaya Temple is a prominent Buddhist temple.",
+            "The Pettah Market is a bustling shopping district.",
+            "Famous for its tea and Sri Lankan cuisine.",
+            "Offers a blend of historical charm and tropical vibrancy."
+        ],
+        "fun_fact": [
+            "Colombo is the commercial capital of Sri Lanka.",
+            "The city has numerous parks and beaches.",
+            "Colombo has a rich history of colonial rule.",
+            "The city has a thriving arts and culture scene.",
+            "Colombo is known for its gem trade and jewelry."
+        ],
+        "trivia": [
+            "Hoppers are a popular Sri Lankan dish.",
+            "Ceylon tea is known for its quality.",
+            "The city has numerous markets and street food stalls.",
+            "Colombo is known for its spices and herbs.",
+            "The city has a rich history of Buddhist and Hindu influences."
+        ]
+    },
+    {
+        "city": "Brasília",
+        "country": "Brazil",
+        "clues": [
+            "Known for its modernist architecture and urban planning.",
+            "The Cathedral of Brasília is a prominent architectural landmark.",
+            "The National Congress building is a modern architectural masterpiece.",
+            "Famous for its planned city layout and political significance.",
+            "Offers a blend of modern design and political history."
+        ],
+        "fun_fact": [
+            "Brasília is the capital of Brazil.",
+            "The city has numerous parks and artificial lakes.",
+            "Brasília was built in the 1950s as a planned city.",
+            "The city has a thriving arts and culture scene.",
+            "Brasília is known for its modernist architecture designed by Oscar Niemeyer."
+        ],
+        "trivia": [
+            "Feijoada is a popular Brazilian stew.",
+            "Caipirinha is a traditional Brazilian cocktail.",
+            "The city has numerous museums and cultural centers.",
+            "Brasília is known for its wide avenues and green spaces.",
+            "The city has a rich history of political development."
+        ]
+    },
+    {
+        "city": "Tbilisi",
+        "country": "Georgia",
+        "clues": [
+            "Known for its ancient churches and sulfur baths.",
+            "The Narikala Fortress offers panoramic views of the city.",
+            "The Old Town is a historic district with cobblestone streets.",
+            "Famous for its wine and Georgian cuisine.",
+            "Offers a blend of ancient history and modern culture."
+        ],
+        "fun_fact": [
+            "Tbilisi is the capital of Georgia.",
+            "The city has numerous parks and riverfront areas.",
+            "Tbilisi has a rich history dating back to the 5th century.",
+            "The city has a thriving arts and culture scene.",
+            "Tbilisi is known for its sulfur baths and spas."
+        ],
+        "trivia": [
+            "Khachapuri is a popular Georgian cheese bread.",
+            "Georgian wine is known for its ancient traditions.",
+            "The city has numerous markets and wine shops.",
+            "Tbilisi is known for its traditional Georgian folk music and dance.",
+            "The city has a rich history of Orthodox Christian influences."
+        ]
+    },
+    {
+        "city": "Rotorua",
+        "country": "New Zealand",
+        "clues": [
+            "Known for its geothermal activity and Maori culture.",
+            "The Te Puia geothermal park features geysers and hot springs.",
+            "The Whakarewarewa Maori Village offers cultural experiences.",
+            "Famous for its geothermal spas and Maori cultural performances.",
+            "Offers a blend of natural wonders and indigenous traditions."
+        ],
+        "fun_fact": [
+            "Rotorua is known for its geothermal activity.",
+            "The city has numerous lakes and forests.",
+            "Rotorua has a rich Maori cultural heritage.",
+            "The city has a thriving tourism industry.",
+            "Rotorua is known for its geothermal mud pools and spas."
+        ],
+        "trivia": [
+            "Hangi is a traditional Maori cooking method.",
+            "Maori cultural performances are a popular attraction.",
+            "The city has numerous craft shops and markets.",
+            "Rotorua is known for its outdoor activities and adventure sports.",
+            "The city has a rich history of Maori settlement."
+        ]
+    },
+    {
+        "city": "Luxembourg City",
+        "country": "Lux",
+        "clues": [
+            "Known for its medieval fortifications and modern architecture.",
+            "The Bock Casemates are historic underground defenses.",
+            "The Grand Ducal Palace is a prominent landmark.",
+            "Famous for its financial district and multicultural atmosphere.",
+            "Offers a blend of historical grandeur and modern prosperity."
+        ],
+        "fun_fact": [
+            "Luxembourg City is the capital of Luxembourg.",
+            "The city has numerous parks and green spaces.",
+            "Luxembourg City has a rich history of European influence.",
+            "The city has a thriving financial and business sector.",
+            "Luxembourg City is known for its multilingual population."
+        ],
+        "trivia": [
+            "Kniddelen are a popular Luxembourgish dumpling dish.",
+            "Luxembourgish wine is produced in the Moselle Valley.",
+            "The city has numerous markets and shops.",
+            "Luxembourg City is known for its cultural festivals and events.",
+            "The city has a rich history of European Union institutions."
+        ]
+    },
+    {
+        "city": "Montevideo",
+        "country": "Uruguay",
+        "clues": [
+            "Known for its beaches and Art Deco architecture.",
+            "The Ciudad Vieja is the historic district with colonial buildings.",
+            "The Rambla is a long seaside promenade.",
+            "Famous for its relaxed atmosphere and tango culture.",
+            "Offers a blend of coastal charm and cultural richness."
+        ],
+        "fun_fact": [
+            "Montevideo is the capital of Uruguay.",
+            "The city has numerous parks and beaches.",
+            "Montevideo has a rich history of immigration and cultural diversity.",
+            "The city has a thriving arts and culture scene.",
+            "Montevideo is known for its liberal and progressive atmosphere."
+        ],
+        "trivia": [
+            "Chivito is a popular Uruguayan sandwich.",
+            "Mate is a traditional South American infused drink.",
+            "The city has numerous markets and street food stalls.",
+            "Montevideo is known for its tango music and dance.",
+            "The city has a rich history of political and social development."
+        ]
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "city": "Sucre",
+        "country": "Bolivia",
+        "clues": [
+            "Known for its white colonial architecture and historical significance.",
+            "The Casa de la Libertad is a historic building where Bolivia declared independence.",
+            "The Plaza 25 de Mayo is a central square.",
+            "Famous for its chocolate and Bolivian cuisine.",
+            "Offers a blend of colonial charm and Andean culture."
+        ],
+        "fun_fact": [
+            "Sucre is the constitutional capital of Bolivia.",
+            "The city has numerous churches and monasteries.",
+            "Sucre has a rich history of Spanish colonial rule.",
+            "The city has a thriving arts and cultural scene.",
+            "Sucre is known for its dinosaur footprints at Parque Cretácico."
+        ],
+        "trivia": [
+            "Salteñas are a popular Bolivian pastry.",
+            "Mate de coca is a traditional Andean tea.",
+            "The city has numerous markets and craft shops.",
+            "Sucre is known for its traditional weaving and textiles.",
+            "The city has a rich history of indigenous and Spanish influences."
+        ]
+    },
+    {
+        "city": "Georgetown",
+        "country": "Guyana",
+        "clues": [
+            "Known for its wooden architecture and botanical gardens.",
+            "The St. George's Cathedral is a prominent landmark.",
+            "The Botanical Gardens of Guyana are a lush green space.",
+            "Famous for its rum and Guyanese cuisine.",
+            "Offers a blend of colonial history and tropical beauty."
+        ],
+        "fun_fact": [
+            "Georgetown is the capital of Guyana.",
+            "The city has numerous canals and waterfront areas.",
+            "Georgetown has a rich history of British colonial rule.",
+            "The city has a diverse cultural heritage.",
+            "Georgetown is known for its wooden architecture and stilt houses."
+        ],
+        "trivia": [
+            "Pepperpot is a traditional Guyanese stew.",
+            "Guyanese rum is known for its quality.",
+            "The city has numerous markets and street food stalls.",
+            "Georgetown is known for its cricket culture.",
+            "The city has a rich history of Caribbean and African influences."
+        ]
+    },
+    {
+        "city": "Paramaribo",
+        "country": "Suriname",
+        "clues": [
+            "Known for its Dutch colonial architecture and riverfront views.",
+            "The historic inner city is a UNESCO World Heritage Site.",
+            "The Suriname River runs through the city.",
+            "Famous for its Javanese and Creole cuisine.",
+            "Offers a blend of Dutch history and South American culture."
+        ],
+        "fun_fact": [
+            "Paramaribo is the capital of Suriname.",
+            "The city has numerous parks and waterfront areas.",
+            "Paramaribo has a rich history of Dutch colonial rule.",
+            "The city has a diverse cultural heritage.",
+            "Paramaribo is known for its wooden architecture and multiculturalism."
+        ],
+        "trivia": [
+            "Pom is a popular Surinamese dish.",
+            "Saoto soup is a Javanese-Surinamese specialty.",
+            "The city has numerous markets and street food stalls.",
+            "Paramaribo is known for its birdwatching and nature reserves.",
+            "The city has a rich history of African, Dutch, and Javanese influences."
+        ]
+    },
+    {
+        "city": "Nuuk",
+        "country": "Greenland",
+        "clues": [
+            "Known for its colorful houses and Arctic landscapes.",
+            "The Nuuk Cathedral is a prominent landmark.",
+            "The Greenland National Museum showcases Inuit culture.",
+            "Famous for its Inuit traditions and Arctic wildlife.",
+            "Offers a blend of Inuit heritage and Arctic wilderness."
+        ],
+        "fun_fact": [
+            "Nuuk is the capital of Greenland.",
+            "The city has numerous fjords and coastal areas.",
+            "Nuuk has a rich history of Inuit settlement.",
+            "The city has a growing arts and cultural scene.",
+            "Nuuk is known for its Northern Lights and Arctic wildlife."
+        ],
+        "trivia": [
+            "Suaasat is a traditional Greenlandic soup.",
+            "Greenlandic coffee is often served with seal meat.",
+            "The city has numerous craft shops and markets.",
+            "Nuuk is known for its dog sledding and outdoor activities.",
+            "The city has a rich history of Inuit traditions and culture."
+        ]
+    },
+    {
+        "city": "Victoria",
+        "country": "Seychelles",
+        "clues": [
+            "Known for its Creole architecture and tropical beaches.",
+            "The Victoria Clocktower is a prominent landmark.",
+            "The Seychelles National Botanical Gardens are a lush green space.",
+            "Famous for its Creole cuisine and beaches.",
+            "Offers a blend of Creole culture and island paradise."
+        ],
+        "fun_fact": [
+            "Victoria is the capital of Seychelles.",
+            "The city has numerous beaches and coastal areas.",
+            "Victoria has a rich history of French and British colonial rule.",
+            "The city has a diverse cultural heritage.",
+            "Victoria is known for its coral reefs and marine life."
+        ],
+        "trivia": [
+            "Fish curry is a popular Seychellois dish.",
+            "Seychellois rum is known for its quality.",
+            "The city has numerous markets and craft shops.",
+            "Victoria is known for its scuba diving and snorkeling.",
+            "The city has a rich history of Creole traditions and culture."
+        ]
+    },
+    {
+        "city": "Port Louis",
+        "country": "Mauritius",
+        "clues": [
+            "Known for its colonial architecture and vibrant markets.",
+            "The Aapravasi Ghat is a UNESCO World Heritage Site.",
+            "The Central Market is a bustling shopping district.",
+            "Famous for its Creole cuisine and beaches.",
+            "Offers a blend of colonial history and island paradise."
+        ],
+        "fun_fact": [
+            "Port Louis is the capital of Mauritius.",
+            "The city has numerous parks and waterfront areas.",
+            "Port Louis has a rich history of French and British colonial rule.",
+            "The city has a diverse cultural heritage.",
+            "Port Louis is known for its sugar cane fields and rum production."
+        ],
+        "trivia": [
+            "Dholl puri is a popular Mauritian street food.",
+            "Mauritian rum is known for its quality.",
+            "The city has numerous markets and street food stalls.",
+            "Port Louis is known for its Sega music and dance.",
+            "The city has a rich history of Indian, African, and European influences."
+        ]
+    },
+    {
+        "city": "Apia",
+        "country": "Samoa",
+        "clues": [
+            "Known for its Polynesian culture and tropical landscapes.",
+            "The Immaculate Conception Cathedral is a prominent landmark.",
+            "The Robert Louis Stevenson Museum is a cultural attraction.",
+            "Famous for its Samoan traditions and beaches.",
+            "Offers a blend of Polynesian heritage and island beauty."
+        ],
+        "fun_fact": [
+            "Apia is the capital of Samoa.",
+            "The city has numerous beaches and rainforest areas.",
+            "Apia has a rich history of Polynesian settlement.",
+            "The city has a thriving arts and cultural scene.",
+            "Apia is known for its traditional Samoan tattoos (tatau)."
+        ],
+        "trivia": [
+            "Palusami is a popular Samoan dish.",
+            "Kava is a traditional Polynesian drink.",
+            "The city has numerous markets and craft shops.",
+            "Apia is known for its traditional Samoan dances (siva).",
+            "The city has a rich history of Polynesian traditions and culture."
+        ]
+    },
+    {
+        "city": "Nassau",
+        "country": "Bahamas",
+        "clues": [
+            "Known for its beaches and colonial architecture.",
+            "The Queen's Staircase is a historic landmark.",
+            "The Straw Market is a popular shopping district.",
+            "Famous for its beaches and Junkanoo festival.",
+            "Offers a blend of colonial history and tropical paradise."
+        ],
+        "fun_fact": [
+            "Nassau is the capital of the Bahamas.",
+            "The city has numerous beaches and coastal areas.",
+            "Nassau has a rich history of British colonial rule and pirate activity.",
+            "The city has a thriving tourism industry.",
+            "Nassau is known for its coral reefs and marine life."
+        ],
+        "trivia": [
+            "Conch salad is a popular Bahamian dish.",
+            "Bahamian rum is known for its quality.",
+            "The city has numerous markets and craft shops.",
+            "Nassau is known for its Junkanoo parades and music.",
+            "The city has a rich history of African and British influences."
+        ]
+    },
+    {
+        "city": "Bridgetown",
+        "country": "Barbados",
+        "clues": [
+            "Known for its colonial architecture and beaches.",
+            "The Garrison Savannah is a historic landmark.",
+            "The Barbados Museum & Historical Society showcases the island's history.",
+            "Famous for its rum and Bajan cuisine.",
+            "Offers a blend of colonial history and Caribbean charm."
+        ],
+        "fun_fact": [
+            "Bridgetown is the capital of Barbados.",
+            "The city has numerous beaches and coastal areas.",
+            "Bridgetown has a rich history of British colonial rule.",
+            "The city has a thriving tourism industry.",
+            "Bridgetown is known for its rum distilleries and cricket culture."
+        ],
+        "trivia": [
+            "Cou-cou and flying fish is a national dish.",
+            "Barbadian rum is known for its quality.",
+            "The city has numerous markets and craft shops.",
+            "Bridgetown is known for its Crop Over festival and music.",
+            "The city has a rich history of African and British influences."
+        ]
+    },
+    {
+        "city": "Kingston",
+        "country": "Jamaica",
+        "clues": [
+            "Known for its reggae music and Blue Mountains.",
+            "The Bob Marley Museum is a prominent cultural attraction.",
+            "The Blue Mountains offer hiking and coffee plantations.",
+            "Famous for its reggae music and Jamaican cuisine.",
+            "Offers a blend of musical heritage and tropical landscapes."
+        ],
+        "fun_fact": [
+            "Kingston is the capital of Jamaica.",
+            "The city has numerous beaches and mountain areas.",
+            "Kingston has a rich history of reggae music and culture.",
+            "The city has a thriving arts and music scene.",
+            "Kingston is known for its Blue Mountain coffee and jerk cuisine."
+        ],
+        "trivia": [
+            "Jerk chicken is a popular Jamaican dish.",
+            "Jamaican rum is known for its quality.",
+            "The city has numerous markets and street food stalls.",
+            "Kingston is known for its dancehall and reggae music.",
+            "The city has a rich history of African and British influences."
+        ]
+    }
+]
