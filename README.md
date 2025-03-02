@@ -79,7 +79,7 @@ Now visit: **`http://localhost:5173`** 🚀
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | **POST** | `/api/v1/register` | Register a new user
-| **POST** | `/api/v1/question` | Generate a question |
+| **GET** | `/api/v1/question` | Generate a question |
 | **POST** | `/api/v1/answer` | Validate an answer |
 
 ---
