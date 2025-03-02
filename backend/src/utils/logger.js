@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const logStream = fs.createWriteStream(path.join(__dirname, '../../activity.log'), { flags: 'a' });
+// const logStream = fs.createWriteStream(path.join(__dirname, '../../activity.log'), { flags: 'a' });
 
 export class Logger {
   static log(message) {
@@ -12,6 +12,6 @@ export class Logger {
     const timestamp = new Date().toISOString();
     const logMessage = `[${timestamp}] ${message}`;
     console.log(logMessage);
-    logStream.write(logMessage+"\n");
+    // logStream.write(logMessage+"\n");
   }
 }
