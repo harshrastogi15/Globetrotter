@@ -1,6 +1,6 @@
-import ReaeState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import axios from "axios";
-const API_URct, { usL = import.meta.env.VITE_API_URL;
+const API_URL = import.meta.env.VITE_API_URL;
 const UsernameModal = ({ score, setStatusUserName }) => {
     const [username, setUsername] = useState("");
     const [isOpen, setIsOpen] = useState(true);
@@ -16,7 +16,6 @@ const UsernameModal = ({ score, setStatusUserName }) => {
                 if (response.status == 200 && response.data.message === "user created successfully") {
                     setInviteLink(`${window.location.origin}/invite?username=${username}`)
                     setMessage({ status: 1, message: "We are generating link for you" });
-                } else {
                 }
             } catch (error) {
                 setMessage({ status: 0, message: error.response.data.message });
