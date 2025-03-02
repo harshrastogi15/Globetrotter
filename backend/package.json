@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --verbose --coverage"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --detectOpenHandles --verbose --coverage",
+    "build": "cd ../frontend/ && npm install && npm run build"
   },
   "engines": {
     "node": ">=20.18.0"
